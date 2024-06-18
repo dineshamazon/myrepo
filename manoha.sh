@@ -1,3 +1,7 @@
+
+adding this line to master branch
+iam dinesh
+
 #!/bin/bash
 echo "iam dinesh"
 echo "iam writing shellscripting"
